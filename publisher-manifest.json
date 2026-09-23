@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "aee1cbc9abfa7f7d929e7c4f",
+  "owner": "wunvevytv",
+  "repo": "page-564f88f60997c9d70203c6a1",
+  "title": "小飞机(FlyShadow)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "564f88f60997c9d70203c6a1",
+      "a": "小飞机(FlyShadow)",
+      "b": "稳定全球clash加速器",
+      "entity": "小飞机(FlyShadow)",
+      "brand": "小飞机(FlyShadow)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9aadfad6783544c58e3eb403ccb9ecad3288c5d262a41151a16e69cea828074a",
+      "content": {
+        "primary_entity": "小飞机(FlyShadow)",
+        "keyword1": "小飞机(FlyShadow)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Clash 客户端覆盖 Windows、macOS、Android、iOS 与路由器插件，根据设备系统选择对应版本。",
+          "AI_CLIENTS_TITLE": "按设备选择 Clash 客户端",
+          "AI_CLOSING_TEXT": "选好设备数量与流量，按客户端文档导入订阅即可开始。",
+          "AI_CLOSING_TITLE": "订阅与设备搭配",
+          "AI_DESCRIPTION": "，小飞机(FlyShadow)提供基础版、旗舰版与团队版三档订阅，月付 ¥15 起，年付最低 ¥150。基础版适合 3 台设备同时在线，旗舰版支持 5 台设备并加入 IPLC 专线，团队版可 20 台设备共享 1000GB 流量。在 Clash 客户端中填入订阅地址即可完成配置，覆盖 Windows、macOS、Android、iOS 与路由器。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期列出三项要点。",
+          "AI_FEATURES_TITLE": "选择前需留意的三项",
+          "AI_FEATURE_TEXT_1": "单人手机加电脑选基础版，家庭多设备或游戏需求选旗舰版，团队协作选团队版。",
+          "AI_FEATURE_TEXT_2": "每档套餐标注同时在线设备数，从 3 台到 20 台，超出数量需要升级套餐。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付折算后每月更低，长期使用建议直接选择年付方案。",
+          "AI_FEATURE_TITLE_1": "套餐匹配",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选择套餐到完成 Clash 订阅配置共三步。",
+          "AI_GUIDE_TITLE": "订阅配置流程",
+          "AI_HERO_INTRO": "小飞机(FlyShadow)为 Clash 用户提供多档订阅方案，按月或按年付费，覆盖从个人到团队的设备规模。配置流程围绕客户端导入订阅展开，无需额外插件即可在常见平台上使用。",
+          "AI_HERO_SUBTITLE": "多档 Clash 订阅，按设备灵活选",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付最低 ¥150",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备可选",
+          "AI_HIGHLIGHT_3": "IPLC 专线支持游戏优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别 ¥150、¥350、¥850。流量与设备数逐档提升，旗舰版加入 IPLC 专线，团队版支持企业定制路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数和月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在 Clash 客户端支持范围内，准备对应版本。",
+          "AI_STEP_TEXT_3": "按照客户端文档导入订阅地址，核对节点与规则后启用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Clash 多档订阅，按需选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小飞机(FlyShadow)支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "支持Windows、macOS、iOS与Android客户端，具体版本以客户端下载页说明为准。",
+          "AI_FAQ_QUESTION_2": "套餐之间的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "主要区别在月流量、同时在线设备数和线路类型，基础版100GB/3台，旗舰版300GB/5台，团队版1000GB/20台。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算吗？",
+          "AI_FAQ_ANSWER_3": "年付相当于十个月价格，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用更经济。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅地址？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入入口，粘贴订阅地址后保存并更新节点列表。",
+          "AI_FAQ_QUESTION_5": "可以中途更换套餐吗？",
+          "AI_FAQ_ANSWER_5": "支持在账户内升级或调整套餐，具体规则请查看套餐变更说明。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ywvykae.cn",
+    "host": "ywvykae.cn"
+  },
+  "file_hashes": {
+    "index.html": "13ae6daf070db3ae00c6bdcc596065a6ac71c9b314fd3fb26d7549516b7a6c13",
+    "sitemap.xml": "a34dc34e884c2cf2de829d994ff43149b6e9ed2d2e6e99b8cfd29655ccaf58e1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "74160b97e68eba8b7eae4c348d76ace268fb5a52aab854fbbd2628b220175473",
+    "robots.txt": "7203c68ad40585db84e8a7c1fc862b81fa9e720cf94d3b079051d70acf82dc20",
+    "a96561c7b7a317469501a9bf6eabb8d9.txt": "29588e08f9e8c334ebc1d7e4d1b05988ac698a9161eb4babb19a81b1a7c2a4be"
+  },
+  "revision": "2be990d48efa469bce70a1b17cc1b5604c402fafd3f6dee20fa616ae79335fad"
+}
